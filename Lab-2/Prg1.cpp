@@ -1,12 +1,4 @@
-// Write a program to input a day as number from the keyboard and print message based on
-// input
-// a. Give message “Monday” if user enter 1
-// b. Give message “Tuesday” if user enter 2
-// c. Give message “Wednesday” if user enter 3
-// d. Give message “Thursday” if user enter 4
-// e. Give message “Friday” if user enter 5
-// f. Give message “Saturday” if user enter 6
-// g. Give message “Sunday” if user enter 7
+// Write a program to input a day as number from the keyboard and print message based on// input// a. Give message “Monday” if user enter 1// b. Give message “Tuesday” if user enter 2// c. Give message “Wednesday” if user enter 3// d. Give message “Thursday” if user enter 4// e. Give message “Friday” if user enter 5// f. Give message “Saturday” if user enter 6// g. Give message “Sunday” if user enter 7
 #include <iostream>
 using namespace std;
 int main() {
