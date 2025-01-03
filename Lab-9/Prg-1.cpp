@@ -10,6 +10,7 @@ using namespace std;
 
 class MyCalc{
 
+
     public:
     float addition(float a, float b){
         return a+b;
@@ -46,13 +47,13 @@ int main(){
     cout << "Multiplication: " << mycalc.multiply(num1, num2) << endl;
     cout << "Division: " << mycalc.division(num1, num2) << endl;
 
-    float num11 = 100.12, num21 = 20.23;
+    num1 = 100.12, num2 = 20.23;
 
     // Test all methods
-    cout << "Addition: " << mycalc1.addition(num11, num21) << endl;
-    cout << "Subtraction: " << mycalc1.subtraction(num11, num21) << endl;
-    cout << "Multiplication: " << mycalc1.multiply(num11, num21) << endl;
-    cout << "Division: " << mycalc1.division(num11, num21) << endl;
+    cout << "Addition: " << mycalc1.addition(num1, num2) << endl;
+    cout << "Subtraction: " << mycalc1.subtraction(num1, num2) << endl;
+    cout << "Multiplication: " << mycalc1.multiply(num1, num2) << endl;
+    cout << "Division: " << mycalc1.division(num1, num2) << endl;
 }
 
     
