@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/himalayaashish/Documents/Study_CPP/CPP_REV/Lab-9",
-      "program": "/Users/himalayaashish/Documents/Study_CPP/CPP_REV/Lab-9/build/Debug/outDebug"
+      "cwd": "/Users/himalayaashish/Documents/Study_CPP/CPP_REV/Lab-10",
+      "program": "/Users/himalayaashish/Documents/Study_CPP/CPP_REV/Lab-10/build/Debug/outDebug"
     }
   ]
 }
